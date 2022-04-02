@@ -3,17 +3,17 @@
     {
       "question": "Brown Bear or Polar Bear?",
       "choice1": "🐻",
-      "choice1_count": 1,
+      "choice1_count": 0,
       "choice2": "🐻‍❄️",
-      "choice2_count": 3,
+      "choice2_count": 0,
       "id": 1
     },
     {
       "question": "Panda or Koala?",
       "choice1": "🐼",
-      "choice1_count": 6,
+      "choice1_count": 0,
       "choice2": "🐨",
-      "choice2_count": 1,
+      "choice2_count": 0,
       "id": 2
     }
   ]
